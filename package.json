@@ -1,0 +1,11 @@
+{
+  "name": "next-asset-filename",
+  "version": "0.0.1",
+  "description": "Next.js plugin to change asset filenames",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "next-server": "^8.0.3",
+    "webpack-sources": "^1.3.0"
+  }
+}
